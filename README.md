@@ -1,11 +1,13 @@
 # Hey there! <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
 
+My name is Goutham Kumar R and I'm an Aspiring Data Scientist.I'm from Inida, currently pursuing PGP in Data Science from Praxis Business School.
+You can write to me at 17gouthamkuamr@gmail.com. 
 
-GouthamKumar-R
+
 
 
 <!--
-**GouthamKumar-R/GouthamKumar-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GouthamKumar-R/GouthamKumar-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. GouthamKumar-R
 
 Here are some ideas to get you started:
 
