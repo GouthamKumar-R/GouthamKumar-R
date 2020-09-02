@@ -1,7 +1,7 @@
-# Hey there! <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/<GIF_NAME>.gif" width="30px">
 
 
-
+GouthamKumar-R
 
 
 <!--
