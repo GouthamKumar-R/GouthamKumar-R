@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
 
-My name is Goutham Kumar R and I'm an Aspiring Data Scientist.I'm from Inida, currently pursuing PGP in Data Science from Praxis Business School.
+My name is Goutham Kumar R. An Aspiring Data Scientist from Inida, Currently pursuing PGP in Data Science from Praxis Business School.
 You can write to me at 17gouthamkuamr@gmail.com. 
 
 ### Languages and Tools
