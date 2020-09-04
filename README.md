@@ -3,7 +3,7 @@
 My name is Goutham Kumar R and I'm an Aspiring Data Scientist.I'm from Inida, currently pursuing PGP in Data Science from Praxis Business School.
 You can write to me at 17gouthamkuamr@gmail.com. 
 
-### Worked with
+### Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
@@ -13,7 +13,9 @@ You can write to me at 17gouthamkuamr@gmail.com.
 <code><img height="40" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_logo_project_page_banner.png?itok=jaJeRlWs" title="numpy"></code>
 <code><img height="40" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png" title="seaborn"></code>
 <code><img height="40" src="https://assets.datacamp.com/production/repositories/4199/datasets/3bdb4c210f93c5735bfd31c2bbd7e290f94c4a2b/matplotlib_logo.png" title="matplotlib"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
+<code><img height ="40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" title="R"</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql"></code>
+
 
 
 
