@@ -1,4 +1,4 @@
-# Hey there! I'm Goutham Kumar R <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
+# Hey there! I'm Goutham <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
 
 
 <h3 align="center">An Aspiring Data-Scientist from India.</h3>
